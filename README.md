@@ -43,9 +43,7 @@ Install dependencies using:
 pip install opencv-python-headless numpy matplotlib scipy
 Usage
 Clone the repository and ensure all required files are in place.
-Run the script:
-bash
-نسخ الكود
+
 python yolo.py
 Manually select four reference points on the pitch:
 Top-left corner of the visible pitch area.
