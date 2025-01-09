@@ -37,6 +37,8 @@ This Python script utilizes OpenCV and YOLO (You Only Look Once) for detecting a
    - NumPy
    - Matplotlib
    - SciPy
+## Heatmap
+![Screenshot 2025-01-02 174605](https://github.com/user-attachments/assets/e794ab2d-925c-4ae7-b8bc-8b0a971df92a)
 
 Install dependencies using:
 ```bash
