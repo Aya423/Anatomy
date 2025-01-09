@@ -58,8 +58,7 @@ This visual tool helps coaches and analysts understand player behavior, such as 
 
 ![Screenshot 2025-01-02 174605](https://github.com/user-attachments/assets/e794ab2d-925c-4ae7-b8bc-8b0a971df92a)
 
-## Video
-https://github.com/user-attachments/assets/4de3adbc-ebd8-4a8a-8a03-9bfbf894cd22
+
 
 
 
