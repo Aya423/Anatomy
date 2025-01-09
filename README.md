@@ -23,7 +23,7 @@ This Python script utilizes OpenCV and YOLO (You Only Look Once) for detecting a
 - **Exportable Data**:
   - Formats player tracking data for export or further analysis.
 
-## **Requirements**
+## Requirements
 
 1. **YOLO Model Files**:
    - `yolov4.weights`
@@ -58,6 +58,8 @@ This visual tool helps coaches and analysts understand player behavior, such as 
 
 ![Screenshot 2025-01-02 174605](https://github.com/user-attachments/assets/e794ab2d-925c-4ae7-b8bc-8b0a971df92a)
 
+##Video
+https://github.com/user-attachments/assets/1ea1561f-8c7f-4189-b0de-74c850de1324
 
 
 Install dependencies using:
