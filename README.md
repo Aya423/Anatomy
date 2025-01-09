@@ -38,6 +38,7 @@ This Python script utilizes OpenCV and YOLO (You Only Look Once) for detecting a
    - Matplotlib
    - SciPy
 ## Heatmap 
+ is a visual representation that shows the density or frequency of events across a specific area. In the context of this project, the heatmap illustrates where a player has spent the most time on the football pitch
 ![Screenshot 2025-01-02 174605](https://github.com/user-attachments/assets/e794ab2d-925c-4ae7-b8bc-8b0a971df92a)
 
 
