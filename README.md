@@ -40,19 +40,19 @@ This Python script utilizes OpenCV and YOLO (You Only Look Once) for detecting a
 ## Heatmap 
  is a visual representation that shows the density or frequency of events across a specific area. In the context of this project, the heatmap illustrates where a player has spent the most time on the football pitch. Here's a simple explanation:
 
-Purpose:
+- Purpose:
 
 The heatmap helps identify areas on the pitch where the player was most active. It shows the intensity of the player's presence, with hotter (brighter) areas indicating more frequent visits.
-How It Works:
+- How It Works:
 
 Every time the player is detected in a certain position on the pitch, that position's value on the heatmap increases.
 The heatmap accumulates these values over time, creating a visual trail of the player's movements.
-Color Representation:
+- Color Representation:
 
 The heatmap uses colors to show activity levels:
 Red or bright colors indicate areas where the player spent a lot of time.
 Cooler colors (like blue) represent less activity.
-Benefits:
+- Benefits:
 
 This visual tool helps coaches and analysts understand player behavior, such as preferred zones, movement patterns, and overall involvement on the pitch.
 
