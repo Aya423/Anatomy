@@ -61,7 +61,8 @@ This visual tool helps coaches and analysts understand player behavior, such as 
 ## video
 https://github.com/user-attachments/assets/4de3adbc-ebd8-4a8a-8a03-9bfbf894cd22
 
-
+## license
+This project is licensed under the MIT License
 
 
 Install dependencies using:
