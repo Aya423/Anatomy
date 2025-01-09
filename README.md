@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/4de3adbc-ebd8-4a8a-8a03-9bfbf894cd22
 This project is licensed under the MIT License
 
 
-Install dependencies using:
+## Install dependencies using:
 ```bash
 pip install opencv-python-headless numpy matplotlib scipy
 Usage
