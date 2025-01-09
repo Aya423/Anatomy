@@ -23,7 +23,7 @@ This Python script utilizes OpenCV and YOLO (You Only Look Once) for detecting a
 - **Exportable Data**:
   - Formats player tracking data for export or further analysis.
 
-## Requirements
+## **Requirements**
 
 1. **YOLO Model Files**:
    - `yolov4.weights`
